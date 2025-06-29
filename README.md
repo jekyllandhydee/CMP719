@@ -1,6 +1,6 @@
 # Comprehensive Study of Infrared Small Target Detection on NUDT-SIRST
 
-This repository provides the implementation and benchmarking results of the cmp719 project:  
+This repository provides the implementation and benchmarking results of the CMP719 project:  
 
 ---
 
